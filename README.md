@@ -1,0 +1,2 @@
+# Vagrant
+Development system automation
