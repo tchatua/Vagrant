@@ -1,14 +1,3 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.deb
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
-
-pkg/
-src/
+# Here is my .gitignore file for ignoring specific directories and files
+a01_Downloads/
+.vagrant/
