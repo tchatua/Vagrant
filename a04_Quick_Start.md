@@ -310,7 +310,6 @@ Bringing machine 'default' up with 'virtualbox' provider...
 ## To destroy/Delete the VM
 
 ```sh
-tchat@LiptaKO_GurMA UCRT64 /c/a01_Vagrant_VMs/02_Vagrant_Up/Vagrant/d01_Projects/d01_Demo (feature/develop)
 $ vagrant destroy
     default: Are you sure you want to destroy the 'default' VM? [y/N] y
 ==> default: Forcing shutdown of VM...
@@ -327,20 +326,4 @@ The environment has not yet been created. Run `vagrant up` to
 create the environment. If a machine is not created, only the
 default provider will be shown. So if a provider is not listed,
 then the machine is not created for that environment.
-```
-
-
-
-
-
-```md
-│   │   ├── 
-│   │   ├── 
-│   │   ├── 
-│   │   │   └── 
-│   └── 
-```
-
-```sh
-
 ```

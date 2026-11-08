@@ -44,9 +44,9 @@ Bringing machine 'default' up with 'virtualbox' provider...
     default: VirtualBox Version: 7.2
 ==> default: Mounting shared folders...
     default: C:/a01_Vagrant_VMs/02_Vagrant_Up/Vagrant/d01_Projects/d01_Demo => /vagrant
-
 ```
 
+```md
 **$ vagrant up**
 Bringing machine 'default' up with 'virtualbox' provider...
 ==> default: **Box 'hashicorp/precise64'** could not be found. Attempting to find and install...  **Box name specify in my vagrant init commands**
@@ -92,3 +92,4 @@ Bringing machine 'default' up with 'virtualbox' provider...
     default: VirtualBox Version: 7.2
 ==> **default: Mounting shared folders...**
     **default: C:/a01_Vagrant_VMs/02_Vagrant_Up/Vagrant/d01_Projects/d01_Demo => /vagrant**
+```
